@@ -20,6 +20,7 @@ Table Of Contents:
 /**************************/
 /*     General Styles     */
 /**************************/
+
 :root {
 	--primary: #1c262f;
 	--primary-light: #212d37;
@@ -260,7 +261,7 @@ li {
 /*     Home     */
 /****************/
 .home {
-	background-image: url(../assets/images/home.jpg);
+	background-image: url(../assets/images/home_2.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -280,6 +281,7 @@ li {
 /***********************/
 /*     Information     */
 /***********************/
+
 .information .container-fluid .row div:first-child {
   	background-color: var(--primary);
 }
@@ -409,7 +411,7 @@ li {
 }
 
 .slider-1 .slider-container {
-  	position: relative;
+  	position: center;
 }
 
 .slider-1 .swiper-container {
